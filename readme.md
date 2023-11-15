@@ -13,7 +13,7 @@ Create a React SPA with Context API, where you manage `currentCurrency` inside y
     - App.jsx
         - CurrencySelector.jsx - Triggers the context update
         - DisplayCurrency.jsx - Displays the current value from Context
-
+    
 ## Steps:
 
 1. Create a React App: Set up a new React application using create-react-app or your preferred method. Also set up styles with your preferred choice.
